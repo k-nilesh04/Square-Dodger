@@ -69,14 +69,6 @@ cd square-dodger
 
 Open `game.html` in any browser.
 
----
-
-## 📸 Preview
-
-<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/395f138e-2800-4501-a203-d40411a5420f" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a06d858e-0686-4cfa-87cf-a5634f9931df" />
-
----
 
 ## 🔥 Future Improvements
 
