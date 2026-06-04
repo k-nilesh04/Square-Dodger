@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Square Dodger</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="game-shell">
+        <div class="top-bar">
+            <h1>Square Dodger</h1>
+            <div class="score" id="score">Score: 0</div>
+        </div>
+
+        <canvas id="game" width="600" height="500" aria-label="Square Dodger game"></canvas>
+
+        <div class="controls">
+            <span>Move with Left and Right arrow keys, or A and D.</span>
+            <button type="button" id="restart">Restart</button>
+        </div>
+
+        <div class="touch-controls" aria-label="Touch movement controls">
+            <button type="button" class="arrow-btn" data-key="ArrowLeft" aria-label="Move left">&#8592;</button>
+            <button type="button" class="arrow-btn" data-key="ArrowRight" aria-label="Move right">&#8594;</button>
+        </div>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
