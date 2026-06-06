@@ -149,3 +149,4 @@ arrowButtons.forEach((button) => {
 
 resetGame();
 requestAnimationFrame(gameLoop);
+
