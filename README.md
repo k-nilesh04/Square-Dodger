@@ -1,31 +1,16 @@
-# 🎮 Square Dodger
+# Square Dodger
 
 A simple browser-based arcade game built using **HTML, CSS, and JavaScript** where players control a square and dodge falling enemy blocks to survive and score points.
 
 ---
 
-## 🚀 Features
-
-✅ Responsive game layout  
-✅ Increasing difficulty as score increases  
-✅ Real-time score tracking  
-✅ Restart button after Game Over  
-✅ Keyboard controls support  
-✅ Pure HTML + CSS + JavaScript (No libraries)
+### Features
+Responsive game layout, Increasing difficulty as score increases, Real-time score tracking, Restart button after Game Over and Keyboard controls support . 
+Pure HTML + CSS + JavaScript (No libraries)
 
 ---
 
-🕹️ Gameplay
-
-- Control the **blue square**
-- Avoid the **falling red enemy blocks**
-- Every enemy you dodge increases your score
-- Difficulty increases automatically with score
-- Game ends when an enemy collides with the player
-
----
-
-## 🎯 Controls
+### Controls
 
 | Action | Keys |
 |---------|------|
@@ -35,28 +20,27 @@ A simple browser-based arcade game built using **HTML, CSS, and JavaScript** whe
 
 ---
 
-## 📂 Project Structure
-```md
+### Project Structure
+```
 Square-Dodger/
-│── game.html
+│── index.html
+│── style.css
+│── app.js
 │── README.md
 ```
 ---
 
-## ⚙️ Technologies Used
-
-* HTML5 Canvas
-* CSS3
-* Vanilla JavaScript
+### Technologies Used
+-->  HTML5, CSS3, JavaScript
 
 ---
 
-## ▶️ Run Locally
+### Run Locally
 
 1. Clone repository:
 
 ```bash
-git clone https://github.com/your-username/square-dodger.git
+git clone https://github.com/k-nilesh04/square-dodger.git
 ```
 
 2. Open project folder:
@@ -70,18 +54,13 @@ cd square-dodger
 Open `game.html` in any browser.
 
 
-## 🔥 Future Improvements
+## Future Improvements
 
-* Add sound effects
-* High score saving
-* Mobile controls
-* Levels system
-* Pause / Resume
-* Power-ups
+ Add sound effects, High score saving, Mobile controls, Levels system, Pause / Resume and Power-ups
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **K Nilesh**
 
